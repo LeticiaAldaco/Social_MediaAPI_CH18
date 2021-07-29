@@ -12,7 +12,7 @@ As a social media startup I want an API for my social network that uses a NoSQL 
 * NoSQL
 
 ## Github Link:
-
+https://github.com/LeticiaAldaco/Social_MediaAPI_CH18
 
 ## Video Link:
 
