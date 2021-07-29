@@ -6,4 +6,4 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/socialmedia", {
   useFindAndModify: false,
 });
 
-module.exports = mongoose.connection();
+module.exports = mongoose.connection;
