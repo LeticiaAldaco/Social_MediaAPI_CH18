@@ -1,0 +1,25 @@
+{
+  "name": "social_mediaapi_ch18",
+  "version": "1.0.0",
+  "description": "## Purpose As a social media startup I want an API for my social network that uses a NoSQL database so that my website can handle large amounts of unstructured data",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeticiaAldaco/Social_MediaAPI_CH18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeticiaAldaco/Social_MediaAPI_CH18/issues"
+  },
+  "homepage": "https://github.com/LeticiaAldaco/Social_MediaAPI_CH18#readme"
+}
